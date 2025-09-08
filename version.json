@@ -1,11 +1,12 @@
 {
   "app": {
     "version": "1.0.0",
-    "url": "URL_TẢI_APP.ZIP_CỦA_BẠN_SẼ_Ở_ĐÂY",
-    "notes": "- Phiên bản phát hành đầu tiên."
+    "url": "https://github.com/leovo23918/T_o_o_l--A_u_t_o--V_E_O_3/releases/download/v1.0.0/app.zip",
+    "notes": "- Phiên bản phát hành app đầu tiên."
   },
   "libs": {
     "version": "1.0.0",
-    "url": "URL_TẢI_LIBS.ZIP_CỦA_BẠN_SẼ_Ở_ĐÂY"
+    "url": "https://github.com/leovo23918/T_o_o_l--A_u_t_o--V_E_O_3/releases/download/v1.0.0/Third-party.zip",
+    "notes": "- Phiên bản phát hành thư viện đầu tiên."
   }
 }
